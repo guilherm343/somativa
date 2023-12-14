@@ -1,0 +1,39 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Cadastrar";
+}
+<div class="row text-center justify-content-center align-content-center">
+    <div class="text-center">
+        <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <h3 class="col-md-6 text-white mx-auto p-3" role="alert" style="background: linear-gradient(to right, #d5618f, #fd8139)">Criar Nova Conta.</h3>
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+            <div class="form-floating col-md-6 mb-3 mx-auto">
+                <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="nome@exemplo.com" />
+                <label asp-for="Input.Email">Email</label>
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+            <div class="form-floating col-md-6 mb-3 mx-auto">
+                <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="Senha" />
+                <label asp-for="Input.Password">Senha</label>
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+            <div class="form-floating col-md-6 mb-3 mx-auto">
+                <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                <label asp-for="Input.ConfirmPassword">Confirmar Senha</label>
+                <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+            </div>
+            <button id="registerSubmit" type="submit" class="w-50 btn btn-lg text-white" style="background: linear-gradient(to left, #d5618f, #fd8139)">Cadastrar</button>
+            <div class="col-md-6 text-start mx-auto">
+                <p>
+                    <a class="text-decoration-none" asp-area="Identity" asp-page="/Account/Login">Já tem uma Conta?</a>
+                </p>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Somativa.Models.Fornecedor>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-center">Fornecedores</h1>
+<div class="table-responsive">
+<table class="table table-responsive table-striped table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cnpj)
+            </th>
+            <th class="text-end"><a asp-action="Create" class="text-decoration-none text-black">Adicionar<span class="badge"><svg bootstrap-icon="PlusCircle" width="18" height="18" aria-label="Alarms" class="bg-white text-black"></svg></span></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cnpj)
+                </td>
+                <td class="text-end">
+                    <a asp-action="Edit" asp-route-id="@item.FornecedorId" class="btn btn-primary"><svg bootstrap-icon="PencilFill" width="12" height="12" aria-label="Alarms"></svg></a>
+                    <a asp-action="Details" asp-route-id="@item.FornecedorId" class="btn btn-info"><svg bootstrap-icon="Search" width="12" height="12 aria-label="Alarms"></svg></a>
+                    <a asp-action="Delete" asp-route-id="@item.FornecedorId" class="btn btn-danger"><svg bootstrap-icon="Trash2Fill" width="12" height="12" aria-label="Alarms"></svg></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>

@@ -1,0 +1,61 @@
+﻿@model Somativa.Models.Cliente
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+
+<h4 class="text-center">Editar </h4>
+<hr />
+<div class="row justify-content-center align-content-center text-center">
+    <div class="col-md-4 text-center">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ClienteId" />
+            <div class="form-floating mb-3">
+                <input asp-for="Nome" type="text" class="form-control" id="inNome" placeholder="name">
+                <label asp-for="Nome" for="inNome">Nome</label>
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Endereco" type="text" class="form-control" id="inEndereco" placeholder="address">
+                <label asp-for="Endereco" for="inEndereco">Endereco</label>
+                <span asp-validation-for="Endereco" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Telefone" type="text" class="form-control" id="inTelefone" placeholder="phone number">
+                <label asp-for="Telefone" for="inTelefone">Telefone</label>
+                <span asp-validation-for="Telefone" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Cpf" type="text" class="form-control" id="inCpf" placeholder="CPF">
+                <label asp-for="Cpf" for="inCpf">CPF</label>
+                <span asp-validation-for="Cpf" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Email" type="email" class="form-control" id="inEmail" placeholder="email">
+                <label asp-for="Email" for="inEmail">Email</label>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Nascimento" type="date" class="form-control" id="inNascimento" placeholder="birth date">
+                <label asp-for="Nascimento" for="inNascimento">Nascimento</label>
+                <span asp-validation-for="Nascimento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Aplicar Alterações" class="btn btn-primary" />
+                <a asp-action="Index"><svg bootstrap-icon="ArrowLeft" width="24" height="24" aria-label="Alarms"></svg></a>
+            </div>
+        </form>
+
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

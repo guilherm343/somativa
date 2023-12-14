@@ -1,0 +1,47 @@
+﻿@model Somativa.Models.VendaItem
+
+@{
+    ViewData["Title"] = "Create";
+    var VendaIdAux = ViewData["VendaId"];
+}
+
+
+<h4 class="text-center">Adicionar Item a Venda</h4>
+<hr />
+<div class="row justify-content-center align-content-center text-center">
+    <div class="col-md-4 text-center">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="VendaId" />
+            <div class="form-floating mb-3">
+                <select asp-for="VendaId" class="form-control" asp-items="ViewBag.ClienteId"></select>
+                <label asp-for="VendaId" class="control-label"></label>
+                <span asp-validation-for="VendaId" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <select asp-for="ProdutoId" class="form-control" asp-items="ViewBag.ClienteId"></select>
+                <label asp-for="ProdutoId" class="control-label"></label>
+                <span asp-validation-for="ProdutoId" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Quantidade" class="form-control" id="inData" placeholder="name" />
+                <label asp-for="Quantidade" for="inData">Data e Hora</label>
+                <span asp-validation-for="Quantidade" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Unitario" class="form-control" id="inData" placeholder="name" />
+                <label asp-for="Unitario" for="inData">Data e Hora</label>
+                <span asp-validation-for="Unitario" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+                <a asp-controller="VendaItems" asp-action="Index"><svg bootstrap-icon="ArrowLeft" width="24" height="24" aria-label="Alarms"></svg></a>
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

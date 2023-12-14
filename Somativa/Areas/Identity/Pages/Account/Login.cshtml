@@ -1,0 +1,50 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+<div class="row text-center justify-content-center align-content-center">
+    <div class="text-center">
+        <section>
+            <form id="account" method="post">
+                <h3 class="col-md-6 mx-auto text-white p-3" role="alert" style="background: linear-gradient(to right, #d5618f, #fd8139)">Use uma conta local para fazer login.</h3>
+                <hr />
+                <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                <div class="form-floating col-md-6 mb-3 mx-auto">
+                    <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="nome@exemplo.com" />
+                    <label asp-for="Input.Email" class="form-label">Email</label>
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+                <div class="form-floating col-md-6 mb-3 mx-auto">
+                    <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="password" />
+                    <label asp-for="Input.Password" class="form-label">Password</label>
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+                <div class="checkbox mb-3 col-md-6 text-start mx-auto">
+                    <label asp-for="Input.RememberMe" class="form-label">
+                        <input class="form-check-input" asp-for="Input.RememberMe" />
+                        @Html.DisplayNameFor(m => m.Input.RememberMe)
+                    </label>
+                </div>
+                <div>
+                    <button id="login-submit" type="submit" class="w-50 btn btn-lg text-white" style="background: linear-gradient(to left, #d5618f, #fd8139)">Log in</button>
+                </div>
+                <div class="col-md-6 text-start mx-auto">
+                    <p>
+                        <a class="text-decoration-none" id="forgot-password" asp-page="./ForgotPassword">Esqueceu sua senha?</a>
+                    </p>
+                    <p>
+                        <a class="text-decoration-none" asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Registrar novo Usuário</a>
+                    </p>
+                    <p>
+                        <a class="text-decoration-none" id="resend-confirmation" asp-page="./ResendEmailConfirmation">Reenviar e-mail de confirmação</a>
+                    </p>
+                </div>
+            </form>
+        </section>
+    </div>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,23 @@
+﻿@model Somativa.Models.VendaItem
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container justify-content-center align-content-center text-center">
+    <h1>Detalhes</h1>
+    <div>
+        <h4>Venda</h4>
+        <hr />
+        <dl class="row">
+            <p class="col-sm-12">@Html.DisplayNameFor(model => model.Venda):  @Html.DisplayFor(model => model.Venda.Nota)</p>
+            <p class="col-sm-12">@Html.DisplayNameFor(model => model.Produto): @Html.DisplayNameFor(model => model.Produto.Nome)</p>
+            <p class="col-sm-12">@Html.DisplayNameFor(model => model.Quantidade): @Html.DisplayFor(model => model.Quantidade)</p>
+            <p class="col-sm-12">@Html.DisplayNameFor(model => model.Unitario) R$: @Html.DisplayFor(model => model.Unitario)</p>
+        </dl>
+        <div>
+            <a asp-action="Edit" asp-route-id="@Model?.VendaItemId"><svg bootstrap-icon="Pen" width="24" height="24" aria-label="Alarms"></svg></a> |
+            <a asp-controller="VendaItems" asp-action="Index" asp-route-id=@Model.VendaId><svg bootstrap-icon="ArrowLeft" width="24" height="24" aria-label="Alarms"></svg></a>
+        </div>
+    </div>
+</div>

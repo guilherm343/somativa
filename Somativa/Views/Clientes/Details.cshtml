@@ -1,0 +1,44 @@
+﻿@model Somativa.Models.Cliente
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container justify-content-center align-content-center text-center">
+    <h1>Details</h1>
+    <div>
+        <h4>Cliente</h4>
+        <hr />
+        <dl class="row">
+            <p class="col-sm-12">
+                @Html.DisplayNameFor(model => model.Nome): @Html.DisplayFor(model => model.Nome)
+            </p>
+
+            <p class="col-sm-12">
+                @Html.DisplayNameFor(model => model.Endereco): @Html.DisplayFor(model => model.Endereco)
+            </p>
+
+            <p class="col-sm-12">
+                @Html.DisplayNameFor(model => model.Telefone): @Html.DisplayFor(model => model.Telefone)
+            </p>
+
+            <p class="col-sm-12">
+                @Html.DisplayNameFor(model => model.Cpf): @Html.DisplayFor(model => model.Cpf)
+            </p>
+
+            <p class="col-sm-12">
+                @Html.DisplayNameFor(model => model.Email): @Html.DisplayFor(model => model.Email)
+            </p>
+
+            <p class="col-sm-12">
+                @Html.DisplayNameFor(model => model.Nascimento): @Html.DisplayFor(model => model.Nascimento)
+            </p>
+        </dl>
+        <div>
+            <a asp-action="Edit" asp-route-id="@Model?.ClienteId"><svg bootstrap-icon="Pen" width="24" height="24" aria-label="Alarms"></svg></a> |
+            <a asp-action="Index"><svg bootstrap-icon="ArrowLeft" width="24" height="24" aria-label="Alarms"></svg></a>
+        </div>
+    </div>
+</div>
+
+

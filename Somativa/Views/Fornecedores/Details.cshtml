@@ -1,0 +1,22 @@
+﻿@model Somativa.Models.Fornecedor
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container justify-content-center align-content-center text-center">
+    <h1>Details</h1>
+    <div>
+        <h4>Cliente</h4>
+        <hr />
+        <dl class="row">
+            <p class="col-sm-12">@Html.DisplayNameFor(model => model.Nome): @Html.DisplayFor(model => model.Nome)</p>
+            <p class="col-sm-12">@Html.DisplayNameFor(model => model.Cnpj): @Html.DisplayFor(model => model.Cnpj)</p>
+        </dl>
+        <div>
+            <a asp-action="Edit" asp-route-id="@Model?.FornecedorId"><svg bootstrap-icon="Pen" width="24" height="24" aria-label="Alarms"></svg></a> |
+            <a asp-action="Index"><svg bootstrap-icon="ArrowLeft" width="24" height="24" aria-label="Alarms"></svg></a>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Somativa.Models.Produto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<hr />
+<div class="container">
+    <h2 class="text-center">Guarda Roupa Virtual <span class="badge "><a asp-action="Create" class="btn btn-secondary">Adicionar Produto</a></span></h2>
+    <div class="row cards">
+        @foreach (var item in Model)
+        {
+            <div class="card text-center    m-2" style="width: 18rem; margin-bottom: 20px;">
+                <div class="card-body">
+                    <h5 class="card-title">@Html.DisplayFor(modelItem => item.Nome)</h5>
+                    <p class="card-text">
+                        <strong>Estoque:</strong> @Html.DisplayFor(modelItem => item.Estoque)<br />
+                        <strong>R$:</strong> <span class="text-success fw-bold">@Html.DisplayFor(modelItem => item.Preco)</span><br />
+                        <strong>Categoria:</strong> @Html.DisplayFor(modelItem => item.Categoria.Nome)<br />
+                        <strong>Fornecedor:</strong> @Html.DisplayFor(modelItem => item.Fornecedor.Nome)<br />
+                    </p>
+                    <div class="text-center">
+                        <a asp-action="Edit" asp-route-id="@item.ProdutoId" class="btn btn-primary"><svg bootstrap-icon="PencilFill" width="18" height="18" aria-label="Alarms"></svg></a>
+                        <a asp-action="Details" asp-route-id="@item.ProdutoId" class="btn btn-info"><svg bootstrap-icon="Search" width="18" height="18 aria-label="Alarms"></svg></a>
+                        <a asp-action="Delete" asp-route-id="@item.ProdutoId" class="btn btn-danger"><svg bootstrap-icon="Trash2Fill" width="18" height="18" aria-label="Alarms"></svg></a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+

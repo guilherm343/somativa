@@ -1,0 +1,44 @@
+﻿@model Somativa.Models.Cliente
+
+@{
+    ViewData["Title"] = "Delete";
+}
+<div class="container text-center">
+    <h3 class="alert-danger p-2">Certeza que quer apagar?</h3>
+    <div>
+        <hr />
+        <h4>Cliente</h4>
+        <div>
+            <dl class="row">
+                <p class="col-sm-12">
+                    @Html.DisplayNameFor(model => model.Nome): @Html.DisplayFor(model => model.Nome)
+                </p>
+
+                <p class="col-sm-12">
+                    @Html.DisplayNameFor(model => model.Endereco): @Html.DisplayFor(model => model.Endereco)
+                </p>
+
+                <p class="col-sm-12">
+                    @Html.DisplayNameFor(model => model.Telefone): @Html.DisplayFor(model => model.Telefone)
+                </p>
+
+                <p class="col-sm-12">
+                    @Html.DisplayNameFor(model => model.Cpf): @Html.DisplayFor(model => model.Cpf)
+                </p>
+
+                <p class="col-sm-12">
+                    @Html.DisplayNameFor(model => model.Email): @Html.DisplayFor(model => model.Email)
+                </p>
+
+                <p class="col-sm-12">
+                    @Html.DisplayNameFor(model => model.Nascimento): @Html.DisplayFor(model => model.Nascimento)
+                </p>
+            </dl>
+            <form asp-action="Delete">
+                <input type="hidden" asp-for="ClienteId" />
+                <input type="submit" value="Apagar" class="btn btn-danger" /> |
+                <a asp-action="Index"><svg bootstrap-icon="ArrowLeft" width="24" height="24" aria-label="Alarms"></svg></a>
+            </form>
+        </div>
+    </div>
+</div>

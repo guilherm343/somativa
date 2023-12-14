@@ -1,0 +1,597 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Somativa.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Somativa.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\#moodboard #png #moodboardpngs #filler #moodboardfiller #polyvore #paradiseecity #freetoedit.jpg",
+      "PackagePath": "staticwebassets\\img\\#moodboard #png #moodboardpngs #filler #moodboardfiller #polyvore #paradiseecity #freetoedit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\0793eaf9-8e70-4ec6-abc4-5cd1d070e7f8.jpg",
+      "PackagePath": "staticwebassets\\img\\0793eaf9-8e70-4ec6-abc4-5cd1d070e7f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\0ac3ad53-3cf8-4adc-89a1-5c2466f8e09c.jpg",
+      "PackagePath": "staticwebassets\\img\\0ac3ad53-3cf8-4adc-89a1-5c2466f8e09c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\11-tipos-de-aesthetic-girl-para-voce-encontrar-o-seu-estilo-1.png",
+      "PackagePath": "staticwebassets\\img\\11-tipos-de-aesthetic-girl-para-voce-encontrar-o-seu-estilo-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\110fc5d9-9b0f-4e79-91c4-865fcf3c4be9.jpg",
+      "PackagePath": "staticwebassets\\img\\110fc5d9-9b0f-4e79-91c4-865fcf3c4be9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\11fe02d2-2df1-4d2b-834e-ad0351e4c0ce.jpg",
+      "PackagePath": "staticwebassets\\img\\11fe02d2-2df1-4d2b-834e-ad0351e4c0ce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\17 pièces Zara qui paraissent dix fois leur prix - Elle.jpg",
+      "PackagePath": "staticwebassets\\img\\17 pièces Zara qui paraissent dix fois leur prix - Elle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\1dba2921-46d6-43d1-a29c-151132f3dfa2.jpg",
+      "PackagePath": "staticwebassets\\img\\1dba2921-46d6-43d1-a29c-151132f3dfa2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\4399a342-3918-455e-9d7c-538ff0010c5a.jpg",
+      "PackagePath": "staticwebassets\\img\\4399a342-3918-455e-9d7c-538ff0010c5a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\4412d833-cb64-431e-b847-82b5461f3857.jpg",
+      "PackagePath": "staticwebassets\\img\\4412d833-cb64-431e-b847-82b5461f3857.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\590dfccd-fc36-441c-8c93-c21dfa956597.jpg",
+      "PackagePath": "staticwebassets\\img\\590dfccd-fc36-441c-8c93-c21dfa956597.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\5bc80a42-c0a0-4523-90c2-4b662e350fe3.jpg",
+      "PackagePath": "staticwebassets\\img\\5bc80a42-c0a0-4523-90c2-4b662e350fe3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\7a3dc432-cec3-40e5-8cde-40898790b44e.jpg",
+      "PackagePath": "staticwebassets\\img\\7a3dc432-cec3-40e5-8cde-40898790b44e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\7ae1b14a-500a-47fc-ae73-39ab19607555.jpg",
+      "PackagePath": "staticwebassets\\img\\7ae1b14a-500a-47fc-ae73-39ab19607555.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\7bd82184-8cbb-4db2-996a-d5586fb86041.jpg",
+      "PackagePath": "staticwebassets\\img\\7bd82184-8cbb-4db2-996a-d5586fb86041.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\@mirrokless on instagram.jpg",
+      "PackagePath": "staticwebassets\\img\\@mirrokless on instagram.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\Doação de fotos  - botas.jpg",
+      "PackagePath": "staticwebassets\\img\\Doação de fotos  - botas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\Dress.jpg",
+      "PackagePath": "staticwebassets\\img\\Dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\Elegante _ winter _ visual _ look.jpg",
+      "PackagePath": "staticwebassets\\img\\Elegante _ winter _ visual _ look.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\Love __ Robin Arellano.jpg",
+      "PackagePath": "staticwebassets\\img\\Love __ Robin Arellano.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\Luxury fashion & independent designers _ SSENSE.jpg",
+      "PackagePath": "staticwebassets\\img\\Luxury fashion & independent designers _ SSENSE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\Meu script para_..The umbrella academy - -\uD835\uDC45\uD835\uDC5C\uD835\uDC62\uD835\uDC5D\uD835\uDC4E\uD835\uDC60 3.jpeg",
+      "PackagePath": "staticwebassets\\img\\Meu script para_..The umbrella academy - -\uD835\uDC45\uD835\uDC5C\uD835\uDC62\uD835\uDC5D\uD835\uDC4E\uD835\uDC60 3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\Script Fame Teen Dr - ⭑ROUPAS ⭑.jpg",
+      "PackagePath": "staticwebassets\\img\\Script Fame Teen Dr - ⭑ROUPAS ⭑.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\Unlabeled.jpg",
+      "PackagePath": "staticwebassets\\img\\Unlabeled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\a2a00dd3-8ac8-4e23-82ae-e4957ca20f5c.jpg",
+      "PackagePath": "staticwebassets\\img\\a2a00dd3-8ac8-4e23-82ae-e4957ca20f5c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\a736a5f9-4caa-44df-b892-422d22c45cb8.jpg",
+      "PackagePath": "staticwebassets\\img\\a736a5f9-4caa-44df-b892-422d22c45cb8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\a9d8ef85-7d35-458b-a8e3-3b793bc33c46.jpg",
+      "PackagePath": "staticwebassets\\img\\a9d8ef85-7d35-458b-a8e3-3b793bc33c46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\abc42226-90f2-4656-81f8-ef3358a45dc6.jpg",
+      "PackagePath": "staticwebassets\\img\\abc42226-90f2-4656-81f8-ef3358a45dc6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\ca5f9302-1d1e-4cd8-9ce5-d77a3e9b2794.jpg",
+      "PackagePath": "staticwebassets\\img\\ca5f9302-1d1e-4cd8-9ce5-d77a3e9b2794.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\d280022f-6b2f-4d74-a7de-add8c1476708.jpg",
+      "PackagePath": "staticwebassets\\img\\d280022f-6b2f-4d74-a7de-add8c1476708.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\d289b08e-cc82-4730-b3f6-bbf42b270edd.jpg",
+      "PackagePath": "staticwebassets\\img\\d289b08e-cc82-4730-b3f6-bbf42b270edd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\e53c494f-fe76-40a9-8850-250ada6d251b.jpg",
+      "PackagePath": "staticwebassets\\img\\e53c494f-fe76-40a9-8850-250ada6d251b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\f8e10149-4e9d-498d-8ee5-5864ddaa67ef.jpg",
+      "PackagePath": "staticwebassets\\img\\f8e10149-4e9d-498d-8ee5-5864ddaa67ef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\foto.png",
+      "PackagePath": "staticwebassets\\img\\foto.png"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\img4.jpg",
+      "PackagePath": "staticwebassets\\img\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\roupas.png",
+      "PackagePath": "staticwebassets\\img\\roupas.png"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\windsor_ Bleiseri - yellow.jpg",
+      "PackagePath": "staticwebassets\\img\\windsor_ Bleiseri - yellow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\img\\✯\uD835\uDDDA\uD835\uDDD8\uD835\uDDE1\uD835\uDDE7\uD835\uDDD8 \uD835\uDDDA\uD835\uDDE5\uD835\uDDD4\uD835\uDDE1\uD835\uDDD7\uD835\uDDD8✯ᵃ ᶠⁱˡʰᵃ ᵈᵉ ᵉʳⁱᶜ.jpg",
+      "PackagePath": "staticwebassets\\img\\✯\uD835\uDDDA\uD835\uDDD8\uD835\uDDE1\uD835\uDDE7\uD835\uDDD8 \uD835\uDDDA\uD835\uDDE5\uD835\uDDD4\uD835\uDDE1\uD835\uDDD7\uD835\uDDD8✯ᵃ ᶠⁱˡʰᵃ ᵈᵉ ᵉʳⁱᶜ.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Guilherme\\Desktop\\Nova pasta\\SprintFrontEnd\\Somativa\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Somativa.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Somativa.props",
+      "PackagePath": "build\\Somativa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Somativa.props",
+      "PackagePath": "buildMultiTargeting\\Somativa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Somativa.props",
+      "PackagePath": "buildTransitive\\Somativa.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,26 @@
+﻿@model Somativa.Models.Venda
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="container text-center">
+    <h3 class="alert-danger p-2">Certeza que quer apagar?</h3>
+    <div>
+        <hr />
+        <h4>Vendas</h4>
+        <div>
+            <dl class="row">
+                <p class="col-sm-12">@Html.DisplayNameFor(model => model.Nota): @Html.DisplayFor(model => model.Nota)</p>
+                <p class="col-sm-12">@Html.DisplayNameFor(model => model.Cliente): @Html.DisplayFor(model => model.Cliente.Nome)</p>
+                <p class="col-sm-12">@Html.DisplayNameFor(model => model.DataHora): @Html.DisplayFor(model => model.DataHora)</p>
+            </dl>
+            <form asp-action="Delete">
+                <input type="hidden" asp-for="VendaId" />
+                <input type="submit" value="Apagar" class="btn btn-danger" /> |
+                <a asp-action="Index"><svg bootstrap-icon="ArrowLeft" width="24" height="24" aria-label="Alarms"></svg></a>
+            </form>
+        </div>
+    </div>
+</div>
+
